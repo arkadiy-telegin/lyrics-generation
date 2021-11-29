@@ -1,0 +1,6 @@
+model_checkpoint_path: "leakgan-21"
+all_model_checkpoint_paths: "leakgan_preD"
+all_model_checkpoint_paths: "leakgan_pre"
+all_model_checkpoint_paths: "leakgan-1"
+all_model_checkpoint_paths: "leakgan-11"
+all_model_checkpoint_paths: "leakgan-21"
