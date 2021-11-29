@@ -19,13 +19,13 @@ ima hit you\
 with the lightnin' in your eyes\
 you're a fly through the sky so fast\
 never thought that it really would last\
-but i'm ready to fly\
+but i'm ready to fly
 
 i'm the voice of the darkness\
 the one who sees the shadows fallin'\
 with no room for a heart\
 that's a little too loud\
-my head is stuck in the clouds\
+my head is stuck in the clouds
 
 and the world is in the flames\
 leave my footprints in the sand\
@@ -38,7 +38,7 @@ there is no way of knowing what's next to the sky\
 when the sun is coming up it's hard to find\
 it's hard to feel\
 it's hard\
-this is crazy...\
+this is crazy...
 
 we’ve been in love for too long\
 the more things change\
@@ -49,7 +49,7 @@ our hearts are made of glass and chains\
 and no one knows\
 what happened when we spoke to strangers\
 when we walked right through the door\
-i can't believe we've met\
+i can't believe we've met
 
 let’s have some fun again\
 but we find it strange\
@@ -60,4 +60,4 @@ and now we're not as different as before\
 how we got here\
 no matter what we do\
 it’s a long way\
-this is crazy\
+this is crazy
